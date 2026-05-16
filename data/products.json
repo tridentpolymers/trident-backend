@@ -1,0 +1,137 @@
+[
+  {
+    "id": "hdpe",
+    "name": "HDPE Granules",
+    "tagline": "High-Density Polyethylene",
+    "description": "Premium high-density polyethylene granules with excellent tensile strength and chemical resistance. Engineered for blow molding, extrusion and injection applications.",
+    "image": "https://static.prod-images.emergentagent.com/jobs/f20c3d48-9e55-4250-ab72-f4c4091271e9/images/d616ad8afc7c730b86bc7c9861cb4fcde965021136164683c364e2dad58512da.png",
+    "features": [
+      "High tensile strength",
+      "Excellent chemical resistance",
+      "Low moisture absorption",
+      "Food-grade options available"
+    ],
+    "industries": [
+      "Packaging",
+      "Construction",
+      "Agriculture"
+    ],
+    "quality": "MFI tested, UV-stabilized, color-consistent batches"
+  },
+  {
+    "id": "ldpe",
+    "name": "LDPE Granules",
+    "tagline": "Low-Density Polyethylene",
+    "description": "Flexible, transparent LDPE granules ideal for film extrusion, soft packaging and laminations. Excellent processability and clarity.",
+    "image": "https://static.prod-images.emergentagent.com/jobs/f20c3d48-9e55-4250-ab72-f4c4091271e9/images/d616ad8afc7c730b86bc7c9861cb4fcde965021136164683c364e2dad58512da.png",
+    "features": [
+      "Superior flexibility",
+      "Excellent transparency",
+      "Good impact strength",
+      "Easy processability"
+    ],
+    "industries": [
+      "Packaging",
+      "Agriculture",
+      "Household"
+    ],
+    "quality": "Optical clarity tested, food-contact safe"
+  },
+  {
+    "id": "pp",
+    "name": "PP Granules",
+    "tagline": "Polypropylene Homopolymer & Copolymer",
+    "description": "Versatile polypropylene granules covering homopolymer and impact copolymer grades for injection molding, fiber spinning and woven sacks.",
+    "image": "https://static.prod-images.emergentagent.com/jobs/f20c3d48-9e55-4250-ab72-f4c4091271e9/images/d616ad8afc7c730b86bc7c9861cb4fcde965021136164683c364e2dad58512da.png",
+    "features": [
+      "High stiffness",
+      "Excellent fatigue resistance",
+      "Wide processing window",
+      "Chemical inertness"
+    ],
+    "industries": [
+      "Automotive",
+      "Packaging",
+      "Household",
+      "Agriculture"
+    ],
+    "quality": "Narrow MFI tolerance, batch-traceable"
+  },
+  {
+    "id": "abs",
+    "name": "ABS Granules",
+    "tagline": "Acrylonitrile Butadiene Styrene",
+    "description": "Engineering-grade ABS granules offering superior impact strength, dimensional stability and surface finish for premium consumer goods.",
+    "image": "https://static.prod-images.emergentagent.com/jobs/f20c3d48-9e55-4250-ab72-f4c4091271e9/images/d616ad8afc7c730b86bc7c9861cb4fcde965021136164683c364e2dad58512da.png",
+    "features": [
+      "Outstanding impact resistance",
+      "Premium surface finish",
+      "High dimensional stability",
+      "Easy machinability"
+    ],
+    "industries": [
+      "Automotive",
+      "Electrical",
+      "Household"
+    ],
+    "quality": "Engineering-grade, paint & plating compatible"
+  },
+  {
+    "id": "pvc",
+    "name": "PVC Granules",
+    "tagline": "Rigid & Flexible PVC Compounds",
+    "description": "Custom-formulated PVC compounds engineered for pipes, profiles, cables and flexible applications. Available in rigid and plasticized grades.",
+    "image": "https://static.prod-images.emergentagent.com/jobs/f20c3d48-9e55-4250-ab72-f4c4091271e9/images/d616ad8afc7c730b86bc7c9861cb4fcde965021136164683c364e2dad58512da.png",
+    "features": [
+      "Customizable hardness",
+      "Flame-retardant grades",
+      "Weather resistance",
+      "Long service life"
+    ],
+    "industries": [
+      "Construction",
+      "Electrical",
+      "Packaging"
+    ],
+    "quality": "RoHS compliant, lead-free stabilized"
+  },
+  {
+    "id": "reprocessed",
+    "name": "Reprocessed Granules",
+    "tagline": "Sustainable Recycled Polymer",
+    "description": "High-quality reprocessed granules from clean industrial scrap. Cost-effective and environmentally responsible without compromising on processability.",
+    "image": "https://static.prod-images.emergentagent.com/jobs/f20c3d48-9e55-4250-ab72-f4c4091271e9/images/d616ad8afc7c730b86bc7c9861cb4fcde965021136164683c364e2dad58512da.png",
+    "features": [
+      "Eco-friendly",
+      "Cost-effective",
+      "Consistent quality",
+      "Multiple polymer types"
+    ],
+    "industries": [
+      "Packaging",
+      "Construction",
+      "Household"
+    ],
+    "quality": "Filtered, devolatilized, color-sorted"
+  },
+  {
+    "id": "custom",
+    "name": "Custom Industrial Compounds",
+    "tagline": "Bespoke Polymer Solutions",
+    "description": "Tailor-made polymer compounds engineered to your specifications — color masterbatches, filled grades, UV-stabilized blends and engineering alloys.",
+    "image": "https://static.prod-images.emergentagent.com/jobs/f20c3d48-9e55-4250-ab72-f4c4091271e9/images/d616ad8afc7c730b86bc7c9861cb4fcde965021136164683c364e2dad58512da.png",
+    "features": [
+      "Custom formulations",
+      "Color matching",
+      "Filler incorporation",
+      "Performance additives"
+    ],
+    "industries": [
+      "Automotive",
+      "Electrical",
+      "Construction",
+      "Packaging"
+    ],
+    "quality": "Application-engineered, lab-validated"
+  }
+]

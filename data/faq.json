@@ -1,0 +1,26 @@
+[
+  {
+    "q": "What minimum order quantity (MOQ) do you accept?",
+    "a": "Standard MOQ is 1 metric ton for stock grades. Custom compounds and color masterbatches start at 5 metric tons for development efficiency."
+  },
+  {
+    "q": "Do you ship internationally?",
+    "a": "Yes. We export to 30+ countries with FOB Mundra/Nhava Sheva and CIF terms. All shipments include REACH/RoHS documentation and certificate of analysis."
+  },
+  {
+    "q": "Can you provide samples before bulk orders?",
+    "a": "Absolutely. We provide 1-5 kg evaluation samples free of charge for serious B2B inquiries. Lead time for samples is 3-5 business days."
+  },
+  {
+    "q": "What is your typical delivery timeline?",
+    "a": "Domestic dispatches happen within 3-5 business days for stock grades. Custom compounds typically require 10-14 days. Export orders ship within 14-21 days post-payment confirmation."
+  },
+  {
+    "q": "Do you accept custom formulations?",
+    "a": "Yes. Our R&D team handles bespoke compounding — color matching, filled grades, UV/anti-static additives and engineering blends. NDA-protected development is standard."
+  },
+  {
+    "q": "Are your granules food-grade?",
+    "a": "Selected HDPE, LDPE and PP grades are food-contact safe per FSSAI and EU 10/2011 regulations. Always confirm grade-specific certification with our technical team."
+  }
+]
