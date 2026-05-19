@@ -1,0 +1,18 @@
+# Build outputs
+target/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Keep specific crucial IDEA files if sharing settings with a team (Optional)
+# !.idea/compiler.xml
+# !.idea/misc.xml
+target/classes/com/trident/api/ContentService.class
+target/classes/com/trident/api/Config$1.class
+target/classes/com/trident/api/ContentService.class
+target/classes/com/trident/api/ContentService.class
+target/classes/com/trident/api/ContentService.class
+target/classes/com/trident/api/ContentService.class
