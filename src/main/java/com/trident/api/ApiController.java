@@ -103,12 +103,12 @@ public class ApiController {
         return contentService.read(name);
     }
 
-    @PutMapping("/content/{name}")
-    public Map<String, String> putContent(@PathVariable String name, @RequestBody(required = false) JsonNode body, HttpServletRequest request) {
-        authService.getCurrentUser(request);
-        contentService.write(name, body);
-        return Map.of("message", "Updated", "name", name);
-    }
+//    @PutMapping("/content/{name}")
+//    public Map<String, String> putContent(@PathVariable String name, @RequestBody(required = false) JsonNode body, HttpServletRequest request) {
+//        authService.getCurrentUser(request);
+//        contentService.write(name, body);
+//        return Map.of("message", "Updated", "name", name);
+//    }
 
     @PostMapping("/inquiries")
     public Map<String, Object> createInquiry(@Valid @RequestBody InquiryCreate payload) {
