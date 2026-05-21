@@ -1,0 +1,34 @@
+[
+  {
+    "id": "t1",
+    "name": "Rajesh Mehta",
+    "title": "Procurement Head",
+    "company": "PolyPack Industries",
+    "quote": "Trident Enterprise has been our most reliable HDPE supplier for over six years. Their consistency in quality and on-time delivery is unmatched in the Indian polymer market.",
+    "rating": 5
+  },
+  {
+    "id": "t2",
+    "name": "Sandra Kowalski",
+    "title": "Operations Director",
+    "company": "EuroForm GmbH",
+    "quote": "We import 1,200 tons of PP granules annually from Trident. Their REACH-compliant documentation and export logistics make them our preferred Asia-Pacific partner.",
+    "rating": 5
+  },
+  {
+    "id": "t3",
+    "name": "Anand Krishnan",
+    "title": "MD",
+    "company": "Krishnan Plastics",
+    "quote": "From technical support to sample dispatch, every interaction with Trident feels like working with a true partner — not just a vendor.",
+    "rating": 5
+  },
+  {
+    "id": "t4",
+    "name": "Mohammed Al-Rashid",
+    "title": "Purchase Manager",
+    "company": "Gulf Polymer Trading",
+    "quote": "Premium quality at competitive prices. Trident's reprocessed grades give us margins we couldn't achieve elsewhere — without compromising on processability.",
+    "rating": 5
+  }
+]

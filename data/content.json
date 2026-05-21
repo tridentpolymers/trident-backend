@@ -1,0 +1,51 @@
+{
+  "hero": {
+    "eyebrow": "TRIDENT ENTERPRISE — SINCE 2008",
+    "title": "Delivering Quality Plastic Granules with Strength, Purity & Trust",
+    "subtitle": "Premium polymer raw materials engineered for global manufacturers. ISO-certified production, consistent grades, and on-time bulk supply across 30+ countries.",
+    "cta_primary": "View Products",
+    "cta_secondary": "Contact Us",
+    "background": "https://static.prod-images.emergentagent.com/jobs/f20c3d48-9e55-4250-ab72-f4c4091271e9/images/e9885f2ce4df52a0fcb53240ee6a7361321e9559b04d6df3e2b4c6329a74b4f6.png"
+  },
+  "stats": [
+    { "label": "Years of Industry Experience", "value": 17, "suffix": "+" },
+    { "label": "Tons Supplied Annually", "value": 50, "suffix": "K+" },
+    { "label": "Global Clients", "value": 850, "suffix": "+" },
+    { "label": "Countries Served", "value": 32, "suffix": "" }
+  ],
+  "why_choose_us": [
+    { "icon": "ShieldCheck", "title": "Premium Quality Assurance", "description": "Every batch is lab-tested for melt flow index, density and purity before dispatch." },
+    { "icon": "Factory", "title": "Trusted Manufacturing Process", "description": "State-of-the-art compounding lines with closed-loop quality control." },
+    { "icon": "BadgeIndianRupee", "title": "Competitive Pricing", "description": "Direct-from-manufacturer rates with transparent volume-based slabs." },
+    { "icon": "PackageCheck", "title": "Bulk Supply Capacity", "description": "Stock and produce thousands of metric tons monthly, ready for export." },
+    { "icon": "Truck", "title": "On-Time Delivery", "description": "Pan-India logistics network and FOB/CIF export readiness." },
+    { "icon": "Globe2", "title": "Global Standard Compliance", "description": "REACH, RoHS and ISO 9001:2015 certified processes." }
+  ],
+  "industries": [
+    { "icon": "Package", "title": "Packaging Industry", "description": "Films, containers, caps, closures and rigid packaging." },
+    { "icon": "Car", "title": "Automotive Industry", "description": "Interior trims, bumpers, under-the-hood components." },
+    { "icon": "Building2", "title": "Construction Industry", "description": "Pipes, fittings, conduits, geomembranes." },
+    { "icon": "Home", "title": "Household Products", "description": "Furniture, appliances, kitchenware, storage." },
+    { "icon": "Sprout", "title": "Agriculture Industry", "description": "Drip pipes, mulch films, irrigation, greenhouse covers." },
+    { "icon": "Zap", "title": "Electrical Industry", "description": "Cable insulation, switchgear, electrical housings." }
+  ],
+  "about": {
+    "headline": "Engineering Polymer Excellence for a Global Market",
+    "story": "Founded in 2008 in Western India, Trident Enterprise has grown from a regional compounder into a globally trusted name in plastic granule manufacturing. Our 80,000 sq.ft. integrated facility produces over 50,000 tons of premium polymer compounds annually, serving leading OEMs and converters across packaging, automotive, construction and electrical sectors.",
+    "mission": "To set the global benchmark for polymer purity, consistency and supply reliability — empowering our clients to manufacture with absolute confidence.",
+    "vision": "To be the most trusted plastic raw material partner across emerging markets by 2030, recognized for engineering excellence and ethical sourcing.",
+    "image": "https://static.prod-images.emergentagent.com/jobs/f20c3d48-9e55-4250-ab72-f4c4091271e9/images/f53eddd4f99740e1c1ceeca2b5da3627482e3ba9273ad93ce9530e49c4cbd823.png",
+    "highlights": [
+      { "title": "17+ Years of Manufacturing", "description": "Three generations of polymer expertise refined into every granule we produce." },
+      { "title": "ISO 9001:2015 Certified", "description": "Independently audited quality systems across the entire production lifecycle." },
+      { "title": "80,000 sq.ft. Facility", "description": "Twin-screw extrusion, in-line testing labs and climate-controlled warehousing." },
+      { "title": "REACH & RoHS Compliant", "description": "Granules meeting EU and global regulatory frameworks for export readiness." }
+    ]
+  },
+  "cta": {
+    "title": "Ready to source premium polymer granules?",
+    "subtitle": "Request a quote today. Our export team responds within 4 business hours.",
+    "primary": "Request a Quote",
+    "secondary": "Download Brochure"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name": "Trident Enterprise",
+    "tagline": "Premium Plastic Granules. Engineered for the World.",
+    "address": "Plot 47, GIDC Industrial Estate, Vatva, Ahmedabad, Gujarat 382445, India",
+    "phone": "+91 98250 12345",
+    "whatsapp": "919825012345",
+    "email": "sales@tridententerprise.com",
+    "support_email": "support@tridententerprise.com",
+    "hours": "Mon — Sat · 9:30 AM — 7:00 PM IST"
+  },
+  "social": {
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.com",
+    "facebook": "https://facebook.com",
+    "instagram": "https://instagram.com",
+    "youtube": "https://youtube.com"
+  },
+  "map": {
+    "embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.139!2d72.6312!3d22.9624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e872f0f3afbd3%3A0x0!2sVatva%20GIDC%2C%20Ahmedabad!5e0!3m2!1sen!2sin!4v1700000000000",
+    "lat": 22.9624,
+    "lng": 72.6312
+  },
+  "certifications": [
+    { "name": "ISO 9001:2015", "label": "Quality Management" },
+    { "name": "REACH", "label": "EU Compliance" },
+    { "name": "RoHS", "label": "Restricted Substances" },
+    { "name": "MSME", "label": "Government Registered" }
+  ],
+  "seo": {
+    "title": "Trident Enterprise — Premium Plastic Granules Manufacturer & Supplier",
+    "description": "ISO-certified manufacturer and exporter of HDPE, LDPE, PP, ABS, PVC and reprocessed plastic granules. Serving 30+ countries with bulk supply, lab-tested quality and on-time delivery.",
+    "keywords": "plastic granules manufacturer, HDPE supplier, LDPE granules, PP granules, ABS, PVC, polymer raw materials, India plastic exporter"
+  }
+}
