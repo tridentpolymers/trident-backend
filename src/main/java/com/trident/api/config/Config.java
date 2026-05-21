@@ -1,4 +1,4 @@
-package com.trident.api;
+package com.trident.api.config;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.trident.api;
+package com.trident.api.exception;
 
 import org.springframework.http.HttpStatus;
 

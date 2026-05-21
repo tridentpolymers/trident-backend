@@ -1,4 +1,4 @@
-package com.trident.api;
+package com.trident.api.service;
 
 import java.nio.charset.StandardCharsets;
 import java.time.Instant;
@@ -10,6 +10,8 @@ import java.util.UUID;
 
 import javax.crypto.SecretKey;
 
+import com.trident.api.config.AppProperties;
+import com.trident.api.exception.ApiException;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.JwtException;

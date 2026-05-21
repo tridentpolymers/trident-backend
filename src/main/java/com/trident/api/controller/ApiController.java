@@ -1,13 +1,9 @@
-package com.trident.api;
-
-import java.time.Instant;
-import java.util.LinkedHashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.UUID;
-import java.util.stream.Collectors;
+package com.trident.api.controller;
 
 import com.fasterxml.jackson.databind.JsonNode;
+import com.trident.api.exception.ApiException;
+import com.trident.api.service.AuthService;
+import com.trident.api.service.ContentServiceV2;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import jakarta.validation.Valid;
@@ -23,14 +19,14 @@ import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseCookie;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.DeleteMapping;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.PutMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
+
+import java.time.Instant;
+import java.util.LinkedHashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.UUID;
+import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/api")
@@ -39,9 +35,9 @@ public class ApiController {
 
     private final MongoTemplate mongoTemplate;
     private final AuthService authService;
-    private final ContentService contentService;
+    private final ContentServiceV2 contentService;
 
-    public ApiController(MongoTemplate mongoTemplate, AuthService authService, ContentService contentService) {
+    public ApiController(MongoTemplate mongoTemplate, AuthService authService, ContentServiceV2 contentService) {
         this.mongoTemplate = mongoTemplate;
         this.authService = authService;
         this.contentService = contentService;
@@ -103,12 +99,12 @@ public class ApiController {
         return contentService.read(name);
     }
 
-//    @PutMapping("/content/{name}")
-//    public Map<String, String> putContent(@PathVariable String name, @RequestBody(required = false) JsonNode body, HttpServletRequest request) {
-//        authService.getCurrentUser(request);
-//        contentService.write(name, body);
-//        return Map.of("message", "Updated", "name", name);
-//    }
+    @PutMapping("/content/{name}")
+    public Map<String, String> putContent(@PathVariable String name, @RequestBody(required = false) JsonNode body, HttpServletRequest request) {
+        authService.getCurrentUser(request);
+        contentService.write(name, body);
+        return Map.of("message", "Updated", "name", name);
+    }
 
     @PostMapping("/inquiries")
     public Map<String, Object> createInquiry(@Valid @RequestBody InquiryCreate payload) {
